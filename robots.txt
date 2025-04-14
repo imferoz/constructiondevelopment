@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://constructiondevelopment.alwejhagroup.com/sitemap.xml
